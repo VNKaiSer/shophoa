@@ -1,0 +1,18 @@
+            {if isset($view)}
+                {include file="$view"}
+            {/if}
+        <div id="link">
+         <div class="link-media">
+         <a href="https://www.facebook.com/profile.php?id=100063467997081" class="fa fa-facebook"></a>
+         </div>
+         <div class="link-media1">
+         <a href="tel:0333061093" class="fa fa-phone"></a>
+         </div>
+         <div class="link-media2">
+         <a href="https://zalo.me/0333061093">
+         <img src="./public/images/zalo.png" alt="">
+         </a>
+         </div>
+        </div>
+        </div>
+
